@@ -8,6 +8,5 @@
      "type": "git",
      "url": "https://github.com/leonhma/Errorcheck.git"
   },
-  "license": "GPL-3.0-only",
-  "examples" : "examples/*.ino"
+  "license": "GPL-3.0-only"
 }
