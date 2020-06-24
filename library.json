@@ -1,0 +1,13 @@
+{
+  "name": "Errorcheck",
+  "version": "1.0.0",
+  "keywords": "checksum, xor, error, errorcheck",
+  "description": "A library with errorcheck features, such as xor, checksum",
+  "repository":
+  {
+     "type": "git",
+     "url": "https://github.com/leonhma/Errorcheck.git"
+  },
+  "license": "GPL-3.0-only",
+  "examples" : "examples/*.cpp"
+}

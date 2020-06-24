@@ -1,0 +1,3 @@
+Errorcheck  KEYWORD1
+x_or    KEYWORD2
+checksum    KEYWORD2
